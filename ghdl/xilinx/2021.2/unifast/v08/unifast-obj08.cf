@@ -1,0 +1,10 @@
+v 4
+file / "/work/Xilinx/Vivado/2021.2/data/vhdl/src/unifast/primitive/PLLE2_ADV.vhd" "820d5eda7d15954ca8310187e555009ceda9ce84" "20250911061721.306":
+  entity plle2_adv at 20( 561) + 0 on 15;
+  architecture plle2_adv_v of plle2_adv at 94( 3059) + 0 on 16;
+file / "/work/Xilinx/Vivado/2021.2/data/vhdl/src/unifast/primitive/DSP48E1.vhd" "b288b3fa059ebfea9ef2ac05f3788bc25c47abc4" "20250911061720.861":
+  entity dsp48e1 at 44( 2235) + 0 on 11;
+  architecture dsp48e1_v of dsp48e1 at 150( 6594) + 0 on 12;
+file / "/work/Xilinx/Vivado/2021.2/data/vhdl/src/unifast/primitive/MMCME2_ADV.vhd" "1d6e3deeaa40cc35abdf0e36c0ef216648a81549" "20250911061721.084":
+  entity mmcme2_adv at 20( 563) + 0 on 13;
+  architecture mmcme2_adv_v of mmcme2_adv at 124( 4419) + 0 on 14;
